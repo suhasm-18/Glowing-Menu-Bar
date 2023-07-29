@@ -17,3 +17,8 @@ section {
   background: #222;
   overflow: hidden;
 }
+ul {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
