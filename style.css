@@ -32,3 +32,8 @@ ul li a {
   text-align: center;
   text-transform: uppercase;
   color: #fff;
+    font-size: 4em;
+  font-weight: 700;
+  transition: 0.5s;
+  transition-delay: 0.5s;
+}
